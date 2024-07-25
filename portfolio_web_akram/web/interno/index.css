@@ -1,0 +1,280 @@
+body{
+    background-color: #ECF9FF;
+    margin: 0px;
+    padding: 0px;
+}
+
+.hero-open{
+    background-image: url(hero.png);
+    background-size: cover;
+    /* width: 100%; */
+    background-color: white;
+    /* height: 800px; */
+    background-position: center;
+    padding: 100px 0 100px ;
+    width: 100%;
+}
+.hero-text{
+    padding: 200px 150px;
+}
+
+.title-every{
+    font-family: 'DM Serif Display';
+    letter-spacing: 2px;
+    color: #292F36;
+}
+
+.text-hero{
+    color: #4D5053;
+    line-height: 30px;
+    letter-spacing: 0.2px;
+
+}
+
+.button-hero{
+    background-color: #292F36;
+    color: white;
+    padding: 15px 25px;
+    font-weight: 500;
+    border-radius: 15px;
+    border: none;
+}
+
+.nav-search{
+    padding: 10px 0px 0px 10px;
+}
+
+.title-dsd{
+    font-family: 'DM Serif Display';
+    margin-bottom: 20px;
+}
+
+.container-work{
+    margin: 200px 0px;
+}
+
+.button-work{
+    color: #292F36;
+    /* padding: 15px 25px; */
+    font-weight: 600;
+    border-radius: 15px;
+    border: none;
+}
+
+.link-readmore{
+    margin-top: 50px;
+    
+}
+
+.img-table{
+    background-position: center;
+}
+
+.table-jt{
+    padding: 150px;
+}
+
+/* *{
+    border: #292F36 1px solid;
+} */
+
+.table-text{
+    padding-right: 100px;
+}
+
+.bi-telephone{
+    color: #CDA274;
+    font-size: 25px;
+    padding: 12px 19px;
+    background:#F4F0EC;
+    border-radius: 100px;
+}
+
+.section-testimoni{
+    margin: 150px;
+    background-color: #F4F0EC;
+
+}
+
+.col-tesm{
+    background-color: #ffffff;
+    border: #F4F0EC solid 10px;
+    border-radius: 25px;
+}
+
+.picT{
+    width: 77px;
+}
+
+.section-project{
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+
+.button-s-projects{
+    margin: 20px 0px;
+    padding: 20px;
+    background-color: #F4F0EC;
+    border-radius: 100px;
+    border: none;
+}
+
+.section-counter{
+    background-color: #F4F0EC;
+}
+
+.counter-num{
+    font-family: 'DM Serif Display';
+    color: #CDA274;
+    margin: 0px 50px;
+}
+.counter-text{
+    font-family: 'Jost';
+    color: #4D5053;
+}
+
+.row-counter1{
+    padding-top: 100px;
+}
+
+.row-counter2{
+    padding-bottom: 200px;
+}
+
+.counter-line1{
+    border-left: #CDA274 2px solid;
+    width: none;
+    height: 130px;
+    position: relative;
+    top: 225px;
+    left: 100px;
+}
+.counter-line2{
+    border-left: #CDA274 2px solid;
+    width: none;
+    height: 130px;
+    position: relative;
+    top: 225px;
+    left: 130px;
+}
+.counter-line3{
+    border-left: #CDA274 2px solid;
+    width: none;
+    height: 130px;
+    position: relative;
+    top: 225px;
+    left: 140px;
+}
+
+.section-articles{
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+
+.col-blog{
+    padding-top: 12px;
+    padding-bottom: 12px;
+    border-radius: 50px;
+    border: #E7E7E7 1px solid;
+}
+
+.col-blog1{
+    background-color: #fff;
+}
+.col-blog2{
+    background-color: #F4F0EC;
+}
+.col-blog3{
+    background-color: #fff;
+}
+
+.title-blog{
+    font-family: 'DM Serif Display';
+    margin-top: 10px;
+    width: 85%;
+}
+
+.date-blog{
+    font-family: 'Jost';
+    color: #4D5053;
+    margin-bottom: 0%;
+    margin-right: auto;
+
+}
+
+.button-blog{
+    padding: 12px 15px;
+    background-color: #F4F0EC;
+    border-radius: 100px;
+    border: none;
+    margin: 5px;
+}
+
+.button-blog2{
+    padding: 12px 15px;
+    background-color: #fff;
+    border-radius: 100px;
+    border: none;
+    margin: 5px;
+}
+
+.marginer-blog{
+    margin: 0px 5px;
+}
+
+.container-contact{
+    height: 400px;
+    margin-top: 300px;
+    margin-bottom: 150px;
+}
+
+.contact-table{
+    background-color: #292F36;
+    width: 80%;
+    height: 85%;
+    /* align-self: center; */
+    border-radius: 80px;
+}
+
+.title-contact{
+    font-family: 'DM Serif Display';
+    letter-spacing: 1px;
+    color: #ffffff;
+}
+
+.text-desc-contact{
+    color: #ffffff;
+    line-height: 30px;
+    letter-spacing: 0.2px;
+
+}
+
+.button-contact{
+    background-color: #CDA274;
+    color: white;
+    padding: 15px 25px;
+    font-weight: 500;
+    border-radius: 15px;
+    border: none;
+    box-shadow: 0px 10px 15px 10px #21262c;
+}
+
+.sosmed-button-footer{
+    border: none;
+    background: none;
+}
+
+.text-footer-desc{
+    color: #4D5053;
+    line-height: 30px;
+    letter-spacing: 0.2px;
+    text-decoration: none;
+}
+
+.copyright-section{
+    height: 100px;
+}
+
+.container-footer{
+    margin-bottom: 200px;
+}
